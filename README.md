@@ -21,7 +21,7 @@ Setting a pin's state:
 
 Reading a pin's state:
 
-    digitalRead(7) // returns 0 or 1
+    digitalRead(7) // returns int 0 or 1
 
 # Speed
 This is purely Python, no acceleration from C yet. So this means it's only good for basic GPIO read and write tasks - precisely timed actions are still better for a microcontroller. ;)
