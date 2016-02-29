@@ -8,7 +8,7 @@ Place chipGPIO.py in the same directory as your script, then include this import
 
     from chipGPIO import *
 
-You then have Arduino-style control of the GPIO pins XIO-0 through 8, addressed simply as 0-8.
+You then have Arduino-style control of the GPIO pins XIO-0 through 7, addressed simply as 0-7.
 
 *For example:*
 Setting a pin's direction:
