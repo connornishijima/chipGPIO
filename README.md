@@ -1,6 +1,8 @@
 # chipGPIO
 Easy GPIO access in Python for the NTC Chip Computer!
 
+NTC has been a bit slow to release a GPIO library for Python, so this should tie your hunger over for the time being! ;)
+
 # How to use:
 Place chipGPIO.py in the same directory as your script, then include this import in your own script:
 
